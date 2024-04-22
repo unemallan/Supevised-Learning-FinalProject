@@ -1,8 +1,8 @@
-# SupweviseLearning_FinalProject
-UC_Boulder Supervised Learning Final Project
+# UC_Boulder Supervised Learning CSCA 5622 Final Project
 This Codebase uses the dataset from https://www.kaggle.com/c/customer-churn-prediction-2020/data
 
-## Project Title: Predicting Customer Churn Using Kaggle Data
+## Project Title: 
+Predicting Customer Churn Using Kaggle Data
 
 ## Background:
 Customer churn, the loss of clients or customers, is a critical metric for businesses in subscription-based industries like telecom, or D2C business. Predicting likely churn for a specific customer can aid in implementing mitigations to retain them.
