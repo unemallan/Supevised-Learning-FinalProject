@@ -37,6 +37,10 @@ Interpret the trained model to understand which features are most influential in
 *  result,
 *  Discussion/Conclusion.
 
+## Rubric:
+
+https://d3c33hcgiwev3.cloudfront.net/Bd_vO_sgS6Wf7zv7ILul_Q_5588a10fb9774b608abc43597252f1f1_Supervised-Learning-Rubric.pdf?Expires=1713916800&Signature=a-QMXov7nJAbre6sg2owtIjZYYXAhVa64gv7JDXh1g82gK8lX3~Huozldrrj4a0Gxwr6pzgCNI2luQdUc1jOjYwQG6mswfs-hstk0Tu2tvgetdQz08k0K71VUCEt9E-UGZJJpDCRQAnpf1KGlMDUyZmqPR7ShyPk5gfXx-pHVCM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
 ## Future Work:
 
 * Implementing ensemble methods like stacking or blending to improve model performance
