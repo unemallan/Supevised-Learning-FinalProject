@@ -12,14 +12,22 @@ The Final project reuquires the creation of a supervised learning model. Here we
 
 ## Required Tasks Per Rubric:
 
-#### Data Preprocessing: Clean the data, handle missing values, encode categorical variables, and scale numerical features if necessary.
-#### Exploratory Data Analysis (EDA): Explore the dataset to gain insights into the relationship between features and churn. Visualize the data to understand patterns and correlations.
-#### Feature Selection: Identify the most relevant features for predicting churn using techniques like feature importance or correlation analysis.
-#### Model Selection: Experiment with different supervised learning algorithms such as Logistic Regression, Random Forest, Support Vector Machines (SVM), Gradient Boosting, etc.
-#### Model Training: Split the data into training and testing sets. Train the selected models on the training data.
-#### Model Evaluation: Evaluate the performance of each model using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC curve.
-#### Hyperparameter Tuning: Fine-tune the hyperparameters of the best-performing model to improve its performance further.
-#### Model Interpretation: Interpret the trained model to understand which features are most influential in predicting churn.
+#### Data Preprocessing: 
+Clean the data, handle missing values, encode categorical variables, and scale numerical features if necessary.
+#### Exploratory Data Analysis (EDA): 
+Explore the dataset to gain insights into the relationship between features and churn. Visualize the data to understand patterns and correlations.
+#### Feature Selection: 
+Identify the most relevant features for predicting churn using techniques like feature importance or correlation analysis.
+#### Model Selection: 
+Experiment with different supervised learning algorithms such as Logistic Regression, Random Forest, Support Vector Machines (SVM), Gradient Boosting, etc.
+#### Model Training: 
+Split the data into training and testing sets. Train the selected models on the training data.
+#### Model Evaluation: 
+Evaluate the performance of each model using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC curve.
+#### Hyperparameter Tuning: 
+Fine-tune the hyperparameters of the best-performing model to improve its performance further.
+#### Model Interpretation: 
+Interpret the trained model to understand which features are most influential in predicting churn.
 
 ## Deliverables:
 #### A Jupyter notebook showing:
